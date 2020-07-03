@@ -28,6 +28,8 @@ To load all the images we need to do one more thing on our CMD
 To easily login use this two credentials <br />
 Email: arvinnespanto@gmail.com<br />
 password: 123456<br />
-<br /><br />
+<br />
 Email: linc.burrows@gmail.com<br />
 password: qwerty<br />
+
+<h2>Thank you!</h2>
