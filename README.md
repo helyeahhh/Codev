@@ -21,6 +21,13 @@ DB_PASSWORD=
 To load all the images we need to do one more thing on our CMD
 <ul>
 <li>Run this command <b>php artisan storage:link</b></li>
-<li>Copy and paste the galleries folder located at the root to public/storage</li>
+<li>Copy and paste the storage/galleries folder to public/storage</li>
 <li>Refresh the page and the image will now load</li>
 </ul>
+
+To easily login use this two credentials <br />
+Email: arvinnespanto@gmail.com<br />
+password: 123456<br />
+<br /><br />
+Email: linc.burrows@gmail.com<br />
+password: qwerty<br />
