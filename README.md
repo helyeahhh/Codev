@@ -2,8 +2,18 @@
  Applicant Exam
 
 <h2>To run this application Follow the steps below</h2>
+<b>Setup Xampp and Create Database</b>
 <ul>
- <li>Put the downloaded project folder on your Xampp/htdocs
+ <li>Download and install Xampp here https://www.apachefriends.org/index.html</li>
+ <li>After downloading Xampp Locate your Xampp folder at your local disk C: drive and Run <b>xampp-control</b></li>
+ <li>Xampp control panel will be opened just start Apache and MySQL</li>
+ <li>Go to phpmyadmin page using your localhost http://localhost/phpmyadmin/</li>
+ <li>On the left sidebar click "New"</li>
+ <li>Just fill up the Database name to "codev" then create</li>
+ </ul>
+ <b>Test the application</b>
+<ul>
+ <li>Put the downloaded project folder on your Xampp/htdocs</li>
  <li>Rename the .env.example file to <b>.env</b> located at the root folder of the project this is the database credentials</li>
 <li>Modify the .env file code line 11 - 13<br />
 DB_DATABASE=codev<br />
@@ -16,7 +26,8 @@ DB_PASSWORD=
   <li>run this command <b>php artisan key:generate</b></li>
  <li>run this command <b>php artisan migrate</b></li>
  </ul>
- We need a localhost to access the project in my case I used XAMPP open Xampp and start Apache and MySQL then access the project using this URL http://localhost/Codev-master/public/
+Access the project using this URL http://localhost/Codev-master/public/ or any url of your localhost
+ 
  
 To load all the images we need to do one more thing on our CMD
 <ul>
