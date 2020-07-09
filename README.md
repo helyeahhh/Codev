@@ -25,7 +25,7 @@ DB_PASSWORD=
  <li>Install Composer Dependencies <b>composer install</b></li>
   <li>run this command <b>php artisan key:generate</b></li>
  <li>run this command <b>php artisan migrate</b></li>
- <li>run this command php artisan serve and copy the url that will generate there ex. (http://127.0.0.1:8000)</li>
+ <li>run this command <b>php artisan serve</b> and copy the url that will generate there ex. (http://127.0.0.1:8000)</li>
  </ul>
  
  You can use my downloaded image for testing located at storage/galleries
