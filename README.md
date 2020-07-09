@@ -25,22 +25,9 @@ DB_PASSWORD=
  <li>Install Composer Dependencies <b>composer install</b></li>
   <li>run this command <b>php artisan key:generate</b></li>
  <li>run this command <b>php artisan migrate</b></li>
+ <li>run this command php artisan serve and copy the url that will generate there ex. (http://127.0.0.1:8000)</li>
  </ul>
-Access the project using this URL http://localhost/Codev-master/public/ or any url of your localhost
  
- 
-To load all the images we need to do one more thing on our CMD
-<ul>
-<li>Run this command <b>php artisan storage:link</b></li>
-<li>Copy and paste the storage/galleries folder to public/storage</li>
-<li>Refresh the page and the image will now load</li>
-</ul>
-
-To easily login use this two credentials <br />
-Email: arvinnespanto@gmail.com<br />
-password: 123456<br />
-<br />
-Email: linc.burrows@gmail.com<br />
-password: qwerty<br />
+ You can use my downloaded image for testing located at storage/galleries
 
 <h2>Thank you!</h2>
